@@ -8,7 +8,8 @@ div#memory_board {
 }
 
 div#memory_board > div {
-  background: url('') no-repeat;
+  background: url('brain.jpeg');
+  background-size: auto;
   border: #000 1px solid;
   width: 71px;
   height: 71px;
